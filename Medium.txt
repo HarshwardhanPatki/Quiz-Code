@@ -1,0 +1,11 @@
+If a base class is inherited in protected access mode then which among the following is true? a) Public and Protected members of base class becomes protected members of derived class b) Only protected members become protected members of derived class c) Private, Protected and Public all members of base, become private of derived class d) Only private members of base, become private of derived class M: Answer: c
+Which type of inheritance leads to diamond problem? a) Single level b) Multi-level c) Multiple d) Hierarchical M: Answer: c
+If a derived class object is created, which constructor is called first? a) Base class constructor b) Derived class constructor c) Depends on how we call the object d) Not possible M: Answer: a
+How can you make the private members inheritable? a) By making their visibility mode as public only b) By making their visibility mode as protected only c) By making their visibility mode as private in derived class d) It can be done both by making the visibility mode public or protected M: Answer: d
+While inheriting a class, if no access mode is specified, then which among the following is true? (in C++) a) It gets inherited publicly by default b) It gets inherited protected by default c) It gets inherited privately by default d) It is not possible M: Answer: c
+Which of the following keywords is used to control access to a class member? a) Default b) Break c) Protected d) Asm M: Answer c
+Which operator can not be overloaded? a) + b) :: c) - d) * M: Answer b
+What is the size of empty class? a) 0 b) 2 c) 4 d) 1 M: Answer d
+In C++ functions are also called ___? a) Definitions b) Concepts c) Methods d) Organizers M: Answer c
+Which of the following is not a valid class specifier? a) Private b) Pointer c) Public d) Protected M: Answer b
+

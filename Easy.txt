@@ -1,0 +1,10 @@
+Which among the following best describes the Inheritance? a) Copying the code already written b) Using the code already written oncec) Using already defined functions in programming language c) None d) Using the data and functions into derived segment E: Answer : d
+How many basic types of inheritance are provided as OOP feature? a) 4 b) 3 c) 2 d) 1 E: Answer : a
+Which among the following best defines single level inheritance? a) A class inheriting a derived class b) A class inheriting a base class c) A class inheriting a nested class d) A class which gets inherited by 2 classes E: Answer : b
+Which among the following is correct for multiple inheritance? a) class student{public: int marks;}s; class stream{int total;}; class topper:public student, public stream{ }; b) class student{int marks;}; class stream{ }; class topper: public student{ }; c) class student{int marks;}; class stream:public student{ }; d) class student{ }; class stream{ }; class topper{ }; E: Answer : a  
+Which programming language doesn’t support multiple inheritance? a) C++ and Java b) C and C++ c) Java and SmallTalk d) Java E: Answer : d
+What is meant by the template parameter? a) It can be used to pass a type as an argument b) It can be used to evaluate a type c) It can of no return type d) It can be used to delete a type E: Answer a
+Which keyword can be used in template? a) class b) typename c) both class & typename d) function E: Answer c
+What is the validity of template parameters? a) inside that block only b) inside the class c) whole program d) inside the main class E: Answer a
+Constructor is executed when _____a) An object goes out of scope. b) A class is declared c) An object is created d) An object is used E: Answer c
+Which of the following is a valid class declaration? a) Class A { int x; }; b) Class B { } c) Public class A { } d) Object A { int x; }; E: Answer a

@@ -1,0 +1,11 @@
+Which design patterns benefit from the multiple inheritances? A. Adapter and observer pattern B. Code pattern C. Glue pattern D. None of the mentioned H: Answer: a
+What will be the order of execution of base class constructors in the following method of inheritance.class a: public b, public c {...}; A. b(); c(); a(); B. c(); b(); a(); C. a(); b(); c(); D. b(); a(); c(); H: Answer: a
+Can we pass parameters to base class constructor though derived class or derived class constructor? A. Yes B. No C. May Be D. Can't Say H: Answer: a
+What are the things are inherited from the base class? A. Constructor and its destructor B. Operator=() members C. Friends D. All of the above H: Answer: d
+Which of the following advantages we lose by using multiple inheritance? A. Dynamic binding B. Polymorphism C. Both Dynamic binding & Polymorphism D. None of the mentioned H: Answer: c
+OOP stands for ___? a) Object to Object Programming b) Object Oriented Programming c) Online Objects Programming d) Object Oriented Processes H: Answer b
+In a class data members are also called as __?  a) Abstracts b) Attributes c) Properties d) Dimensions H: Answer b
+In C++, the class variables are called as ____? a) Functions b) Constants c) Objects d) Methods H: Answer c
+What is the difference between struct and class in C++? a) All members of a structure are public and structures don't have constructors and destructors b) Members of a class are private by default and members of struct are public by default. When deriving a struct from a class/struct, default access-specifier for a base class/struct is public and when deriving a class, default access specifier is private. c) All members of a structure are public and structures don't have virtual functions d) All of the above H: ANswer b 
+Which of the following is true? a) All objects of a class share all data members of class b) Objects of a class do not share non-static members. Every object has its own copy. c) Objects of a class do not share codes of non-static methods, they have their own copy d) None of the above H: Answer b
+    
